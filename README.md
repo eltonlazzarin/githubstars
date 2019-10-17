@@ -1,2 +1,2 @@
 # githubstars
-Viewing favorite repositories on GitHub - Mobile App
+Viewing favorite repositories on GitHub - Mobile Ap
