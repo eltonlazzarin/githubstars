@@ -1,6 +1,3 @@
-# githubstars
-Viewing favorite repositories on GitHub - Mobile App
-
 <h1 align="center">
     <img alt="" src="" />
     <br>
