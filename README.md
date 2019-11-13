@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" src="" />
+    <img alt="" src=""/>
     <br>
     GitHub Stars
 </h1>
